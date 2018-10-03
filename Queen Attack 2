@@ -3,7 +3,8 @@
 import sys
 
 
-n,k = input().strip().split(' ')
+n,k = input().strip().split(' ')//bin python
+
 n,k = [int(n),int(k)]
 x,y = input().strip().split(' ')
 x,y = [int(x)-1,int(y)-1]
